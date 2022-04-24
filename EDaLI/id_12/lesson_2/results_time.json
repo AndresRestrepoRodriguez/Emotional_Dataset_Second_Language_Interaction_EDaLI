@@ -5,7 +5,7 @@
             "total_questions": 20,
             "correct": 18,
             "incorrect": 2,
-            "errors": 5
+            "failed_attempts": 5
         }
     },
     "1-VL-NA": {
@@ -14,7 +14,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "2-OS-TRA": {
@@ -23,7 +23,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "3-OS-LIS": {
@@ -32,7 +32,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "4-TE-NA": {
@@ -41,7 +41,7 @@
             "total_questions": 3,
             "correct": 2,
             "incorrect": 1,
-            "errors": 1
+            "failed_attempts": 1
         }
     },
     "5-OS-PRON": {
@@ -50,7 +50,7 @@
             "total_questions": 5,
             "correct": 4,
             "incorrect": 1,
-            "errors": 4
+            "failed_attempts": 4
         }
     }
 }

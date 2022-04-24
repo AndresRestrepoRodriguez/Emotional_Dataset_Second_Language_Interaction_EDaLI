@@ -5,7 +5,7 @@
             "total_questions": 23,
             "correct": 19,
             "incorrect": 4,
-            "errors": 6
+            "failed_attempts": 6
         }
     },
     "1-OS-TRA": {
@@ -14,7 +14,7 @@
             "total_questions": 6,
             "correct": 6,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "2-OS-ORD": {
@@ -23,7 +23,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "3-OS-JOIN": {
@@ -32,7 +32,7 @@
             "total_questions": 4,
             "correct": 3,
             "incorrect": 1,
-            "errors": 1
+            "failed_attempts": 1
         }
     },
     "4-OS-ASSOC": {
@@ -41,7 +41,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "5-OS-DLG": {
@@ -50,7 +50,7 @@
             "total_questions": 5,
             "correct": 2,
             "incorrect": 3,
-            "errors": 5
+            "failed_attempts": 5
         }
     }
 }

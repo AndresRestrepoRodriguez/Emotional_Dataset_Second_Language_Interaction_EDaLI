@@ -5,7 +5,7 @@
             "total_questions": 25,
             "correct": 19,
             "incorrect": 6,
-            "errors": 11
+            "failed_attempts": 11
         }
     },
     "1-VL-NA": {
@@ -14,7 +14,7 @@
             "total_questions": 3,
             "correct": 3,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "2-OS-ORD": {
@@ -23,7 +23,7 @@
             "total_questions": 3,
             "correct": 2,
             "incorrect": 1,
-            "errors": 3
+            "failed_attempts": 3
         }
     },
     "3-OS-DLG": {
@@ -32,7 +32,7 @@
             "total_questions": 3,
             "correct": 2,
             "incorrect": 1,
-            "errors": 1
+            "failed_attempts": 1
         }
     },
     "4-TE-NA": {
@@ -41,7 +41,7 @@
             "total_questions": 2,
             "correct": 1,
             "incorrect": 1,
-            "errors": 2
+            "failed_attempts": 2
         }
     },
     "5-OS-ASSOC": {
@@ -50,7 +50,7 @@
             "total_questions": 5,
             "correct": 5,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "6-TE-NA": {
@@ -59,7 +59,7 @@
             "total_questions": 2,
             "correct": 2,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "7-OS-ASSOC": {
@@ -68,7 +68,7 @@
             "total_questions": 4,
             "correct": 4,
             "incorrect": 0,
-            "errors": 0
+            "failed_attempts": 0
         }
     },
     "8-OS-PRON": {
@@ -77,7 +77,7 @@
             "total_questions": 3,
             "correct": 0,
             "incorrect": 3,
-            "errors": 5
+            "failed_attempts": 5
         }
     }
 }
